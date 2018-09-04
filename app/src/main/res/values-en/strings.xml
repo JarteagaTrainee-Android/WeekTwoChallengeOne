@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bakery</string>
+    <string name="business_name">Panaderia El Niño Dios</string>
+    <string name="business_address">4th Av Nort #19</string>
+    <string name="business_phone">+503 23765010</string>
+
+</resources>

@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">WeekTwoChallengeOne</string>
+    <string name="app_name">Panaderia</string>
+    <string name="business_name">Panaderia El Niño Dios</string>
+    <string name="business_address">4 Av Norte #19</string>
+    <string name="business_phone">+503 23765010</string>
+    <string name="description_area_title">Descripcion</string>
+    <string name="description_content">cada día se preocupa por llevar hasta la mesa de su casa  la mejor calidad a la cual respaldan desde 80 años de producir toda una variedad del mejor pan dulce ofreciéndole el característico sabor salvadoreño</string>
 </resources>
