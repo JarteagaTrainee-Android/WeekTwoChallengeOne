@@ -16,6 +16,7 @@
             android:id="@+id/imageViewLogo"
             android:layout_width="match_parent"
             android:layout_height="190dp"
+            android:scaleType="centerCrop"
             android:contentDescription="@string/main_image"
             app:layout_constraintEnd_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
