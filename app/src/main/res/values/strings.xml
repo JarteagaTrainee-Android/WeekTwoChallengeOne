@@ -5,4 +5,11 @@
     <string name="business_phone">+503 23765010</string>
     <string name="description_area_title">Descripcion</string>
     <string name="description_content">cada día se preocupa por llevar hasta la mesa de su casa  la mejor calidad a la cual respaldan desde 80 años de producir toda una variedad del mejor pan dulce ofreciéndole el característico sabor salvadoreño</string>
+    <string name="business_schedule">Horario: </string>
+    <string name="business_scheduleDays">Lunes a Domingo: 7:00 - 21:00</string>
+    <string name="clock_icon">Clock Icon</string>
+    <string name="map_icon">Map Icon</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="main_image">MAIN Image</string>
+
 </resources>

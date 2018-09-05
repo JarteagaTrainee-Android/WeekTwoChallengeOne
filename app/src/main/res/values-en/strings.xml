@@ -1,7 +1,14 @@
 <resources>
     <string name="app_name">Bakery</string>
     <string name="business_name">Panaderia El Niño Dios</string>
-    <string name="business_address">4th Av Nort #19</string>
+    <string name="business_address">4 Av Nort #19</string>
     <string name="business_phone">+503 23765010</string>
-
+    <string name="description_area_title">Description</string>
+    <string name="description_content">ENGLISH DESCRIPTION</string>
+    <string name="business_schedule">Schedule: </string>
+    <string name="business_scheduleDays">Monday a Sunday: 7:00 - 21:00</string>
+    <string name="clock_icon">Clock Icon</string>
+    <string name="map_icon">Map Icon</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="main_image">MAIN Image</string>
 </resources>
